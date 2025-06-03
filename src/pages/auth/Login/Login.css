@@ -6,7 +6,7 @@
   display: flex;
   flex-flow: column nowrap;
   height: 450px;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0px 2px 33px 3px rgb(234, 234, 234);
 }
 
